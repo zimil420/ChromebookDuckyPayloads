@@ -1,3 +1,8 @@
+REM Payload name: Change Both Device and Keyboard Language
+REM Device: Chromebook
+REM Made by: zimil
+REM Description: Changes both the device and keyboard language in about 30 seconds. For those who want to watch the world burn 
+
 DELAY 1000
 
 ALT SHIFT S
