@@ -1,3 +1,8 @@
+REM Payload name: Change Keyboard Language
+REM Device: Chromebook
+REM Made by: zimil
+REM Description: Opens settings and changes the keyboard language to Bulgarian in about 10 seconds. 
+
 DELAY 1000
 
 ALT SHIFT S
