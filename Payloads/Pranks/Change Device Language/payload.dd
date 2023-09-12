@@ -1,3 +1,8 @@
+REM Payload name: Change Device Language
+REM Device: Chromebook
+REM Made by: zimil
+REM Description: Literally opens settings and changes the device language to Bulgarian in about 10 seconds. 
+
 DELAY 1000
 
 ALT SHIFT S
